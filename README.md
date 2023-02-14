@@ -1,4 +1,4 @@
-# rockbuster-stealth-data-analysis
+# Rockbuster Stealth Data Analysis Project
 Analysis of the Rockbuster Stealth LLC Data using SQL
 
 
