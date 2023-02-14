@@ -9,11 +9,5 @@ As a data analyst at Rockbuster Stealth’s business intelligence (BI) departmen
 
 
 
-**Dataset:**
-● Download the Rockbuster data set  
-● Download PostgreSQL Database
-
-
-
 **Tableau Visualizations Link:**
 https://public.tableau.com/app/profile/snigdha.sharma1523/viz/Task3_10FinalProject
