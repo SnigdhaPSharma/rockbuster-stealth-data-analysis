@@ -17,6 +17,5 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 ● Do sales figures vary between geographic regions?
 
 
-
 **Tableau Visualizations Link:**
 https://public.tableau.com/app/profile/snigdha.sharma1523/viz/Task3_10FinalProject
