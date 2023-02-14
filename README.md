@@ -15,5 +15,5 @@ As a data analyst at Rockbuster Stealth’s business intelligence (BI) departmen
 
 
 
-**Tableau Visualixations Link:**
+**Tableau Visualizations Link:**
 https://public.tableau.com/app/profile/snigdha.sharma1523/viz/Task3_10FinalProject
