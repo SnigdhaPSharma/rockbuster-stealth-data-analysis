@@ -1,0 +1,12 @@
+**Genres by Revenue:**
+
+SELECT A.name AS "Genre", 
+SUM(E.amount) AS "Total Revenue Generated", 
+COUNT (DISTINCT (B.film_id)) AS "Number of Films"
+FROM category A
+INNER JOIN film_category B ON A.category_id=B.category_id
+INNER JOIN inventory C ON B.film_id=C.film_id
+INNER JOIN rental D ON C.inventory_id=D.inventory_id
+INNER JOIN payment E ON D.rental_id=E.rental_id
+GROUP BY 1
+ORDER BY "Total Revenue Generated" DESC;
