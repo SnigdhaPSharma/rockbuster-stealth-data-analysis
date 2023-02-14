@@ -1,0 +1,15 @@
+Top 10 Films by Revenue Generated:
+
+SELECT A.title AS "Name", E.name AS "Genre",
+A.rating AS "Rating", B.name AS "Language",
+SUM(G.amount) AS "Total Revenue Generated"
+FROM film A
+    INNER JOIN language B ON A.language_id=B.language_id
+    INNER JOIN inventory C ON A.film_id=C.film_id
+    INNER JOIN film_category D ON A.film_id=D.film_id
+    INNER JOIN category E ON D.category_id=E.category_id
+    INNER JOIN rental F ON C.inventory_id=F.inventory_id
+    INNER JOIN payment G ON F.rental_id=G.rental_id
+GROUP BY 1,2,3,4
+ORDER BY "Total Revenue Generated" DESC
+LIMIT 10
