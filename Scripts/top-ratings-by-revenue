@@ -1,0 +1,11 @@
+**Rating by Revenue:**
+
+SELECT A.rating AS "Rating", 
+SUM(D.amount) AS "Total Revenue Generated", 
+COUNT (DISTINCT (A.film_id)) AS "Number of Films"
+FROM film A
+INNER JOIN inventory B ON A.film_id=B.film_id
+INNER JOIN rental C ON B.inventory_id=C.inventory_id
+INNER JOIN payment D ON C.rental_id=D.rental_id
+GROUP BY 1
+ORDER BY "Total Revenue Generated" DESC;
