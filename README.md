@@ -1,5 +1,5 @@
 # rockbuster-stealth-data-analysis
-SQL Queries related to the Rockbuster Stealth LLC Data Analysis Project
+Analysis of the Rockbuster Stealth LLC Data using SQL
 
 
 
