@@ -46,8 +46,28 @@ Here are the main questions they’d like to answer:
 ## Tableau Visualizations Link
 https://public.tableau.com/app/profile/snigdha.sharma1523/viz/Task3_10FinalProject
 
+## Results
+The analysis revealed several insights about customer behavior, movie popularity, and rental trends:
+
+- India, China and the USA contain almost 25% of all Rockbuster customers and have together generated 25% of the total revenue.  
+- Sports, Sci-fi and Animation genre films have been rented the maximum.  
+- PG and PG-13 rated films are most popular rentals.  
+- English language films such as Telegraph Voyage, Zorro Arcand Wife Turn are most rented.  
+
+
+Based on these insights, several recommendations were made to improve business operations:
+
+- India, China and the USA should be the market of focus as Rockbuster’s customer base is already strong in these countries.  
+- The database should have more copies of Sports, Sci-fi and Animation films in English language as  they are popular and generate maximum revenue.  
+- Since PG and PG-13 films are generating large revenue the inventory should have movies that are rated such.  
+- To promote loyalty among users a credit point-based system should be developed, and the top 5 customers can get 100 extra points at the launch of the application.  
+- The marketing team should track the customer lifetime and send them relevant emails suggesting movies that match their profile, to increase engagement.  
+
 ## Files
-*.sql: SQL files containing the queries used in the analysis.  
+**Analysis and Result**: Contains the Final Presentation with results of the analysis.  
+**Data**: Contains the dvdrental.zip file to load the data into local database.  
+**Project Overview**: Contains the Business Requirement Document.  
+**Scripts**: Contains *.sql files with queries of the analysis.  
 README.md: This file.  
 
 ## Installation
