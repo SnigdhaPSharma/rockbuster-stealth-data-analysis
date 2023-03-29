@@ -30,7 +30,8 @@ The analysis was performed using SQL queries. The queries were executed using th
 
 _**Data exploration**_: The data was explored to understand its structure and identify any issues such as missing values or duplicates.  
 _**Data cleaning**_: The data was cleaned to remove duplicates and missing values.  
-_**Data analysis**_: The data was analyzed using SQL queries to extract insights about customer behavior, movie popularity, and rental trends.  
+_**Data analysis**_: The data was analyzed using SQL queries to extract insights about customer behavior, movie popularity, and rental trends. 
+_**Data visualization**_: The data was visualized using Tableau to draw patterns and identify trends over the years.  
 
 ## Key Questions and Objectives
 The Rockbuster Stealth Management Board has asked a series of business questions and they expect data-driven answers that they can use for their 2020 company strategy.
