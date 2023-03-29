@@ -9,9 +9,9 @@ As a data analyst at Rockbuster Stealth’s business intelligence (BI) departmen
 ## Data
 The Rockbuster Stealth LLC data includes information about customers, rentals, movies etc. The data is stored in the following tables:
 
-**customer**: Contains information about customers such as name, address, and email.
-**rental**: Contains information about rentals such as rental date, return date, staff id.
-**film**: Contains information about movies such as title, release year, and genre.
+**customer**: Contains information about customers such as name, address, and email.  
+**rental**: Contains information about rentals such as rental date, return date, staff id.  
+**film**: Contains information about movies such as title, release year, and genre.  
 **payment**: Contains information about rental payments such as amount, customer id, staff id, payment date etc
 **store**: Contains information about the store such as manager id, store address id etc
 **film_actor**: Contains information about the actor who acted in a particular film such as film id, actor id etc
