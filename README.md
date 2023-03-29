@@ -51,4 +51,4 @@ https://public.tableau.com/app/profile/snigdha.sharma1523/viz/Task3_10FinalProje
 README.md: This file.
 
 ## Installation
-To run the analysis, you will need to install PostgreSQL database management system and import the data into the database. You will also need to run the queries in the *.sql files.
+To run the analysis, you will need to install PostgreSQL database management system and import the dvdrental.zip data into the database. You will also need to run the queries in the *.sql files.
