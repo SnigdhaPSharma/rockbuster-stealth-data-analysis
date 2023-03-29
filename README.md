@@ -43,9 +43,6 @@ Here are the main questions they’d like to answer:
 ● Where are customers with a high lifetime value based?  
 ● Do sales figures vary between geographic regions?  
 
-## Tableau Visualizations Link
-https://public.tableau.com/app/profile/snigdha.sharma1523/viz/Task3_10FinalProject
-
 ## Results
 The analysis revealed several insights about customer behavior, movie popularity, and rental trends:
 
@@ -72,3 +69,6 @@ README.md: This file.
 
 ## Installation
 To run the analysis, you will need to install PostgreSQL database management system and import the dvdrental.zip data into the database. You will also need to run the queries in the *.sql files.
+
+## Tableau Visualizations Link
+https://public.tableau.com/app/profile/snigdha.sharma1523/viz/Task3_10FinalProject
