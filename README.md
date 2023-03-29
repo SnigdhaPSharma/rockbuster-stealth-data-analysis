@@ -47,8 +47,8 @@ Here are the main questions they’d like to answer:
 https://public.tableau.com/app/profile/snigdha.sharma1523/viz/Task3_10FinalProject
 
 ## Files
-*.sql: SQL files containing the queries used in the analysis.
-README.md: This file.
+*.sql: SQL files containing the queries used in the analysis.  
+README.md: This file.  
 
 ## Installation
 To run the analysis, you will need to install PostgreSQL database management system and import the dvdrental.zip data into the database. You will also need to run the queries in the *.sql files.
